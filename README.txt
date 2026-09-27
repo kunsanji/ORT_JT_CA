@@ -44,11 +44,11 @@ pct_free_lunch and pct_reduced_lunch use frl_total as denominator,
   so they sum to 100 by construction. Not comparable to enrollment.
 
 --- GitHub repository ---
-Repository URL: [your GitHub URL]
+Repository URL: https://github.com/kunsanji/ORT_JT_CA.git
 Visibility:     Public
 
 --- Zenodo DOI ---
-DOI: [your DOI]
+DOI: https://doi.org/10.5281/zenodo.22986615
 
 --- R environment ---
 R version: 4 . 5.3 
