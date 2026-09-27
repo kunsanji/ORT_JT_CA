@@ -1,0 +1,6 @@
+variable,n,missing,mean,sd,min,median,max
+diabetes_pct,58,0,12.06,1.45,9.3,12,15.9
+pct_bachelor_plus,58,0,30.48,12.34,13.09,25.69,61.13
+pct_no_vehicle_far,58,0,2.09,1.28,0.56,1.84,6.89
+unemployment_rate,58,0,6.95,2.11,2.47,6.38,12.63
+uninsured_rate,58,0,6.35,1.92,3.2,6.35,13.7

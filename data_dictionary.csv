@@ -1,0 +1,56 @@
+variable_name,label,source,year
+fips,5-digit county FIPS code (character),U.S. Census Bureau,2024
+county_name,"County name (ACS format, includes state)",U.S. Census Bureau,2024
+poverty_rate,Poverty rate (% persons below poverty line),ACS 5-Year 2020-2024,2020-2024
+median_hh_income,Median household income ($),ACS 5-Year 2020-2024,2020-2024
+unemployment_rate,Unemployment rate (% civilian labor force),ACS 5-Year 2020-2024,2020-2024
+snap_rate,SNAP participation rate (% households),ACS 5-Year 2020-2024,2020-2024
+rent_burden_rate,Rent cost burden (% renters paying 30%+ of income on rent),ACS 5-Year 2020-2024,2020-2024
+pct_no_hs,% adults 25+ with less than a high school diploma,ACS 5-Year 2020-2024,2020-2024
+pct_hs_grad,% adults 25+ with a high school diploma or equivalent,ACS 5-Year 2020-2024,2020-2024
+pct_bachelor_plus,% adults 25+ with a bachelor's degree or higher,ACS 5-Year 2020-2024,2020-2024
+uninsured_rate,"Uninsured rate (% population, ACS DP03_0099P)",ACS 5-Year 2020-2024,2020-2024
+inactivity_pct,Physical inactivity prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+colorectal_screen_pct,Colorectal cancer screening rate (%),CDC PLACES 2025,2021-2022 BRFSS
+diabetes_pct,Diagnosed diabetes prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+mammography_pct,Mammography use rate (%),CDC PLACES 2025,2021-2022 BRFSS
+uninsured_places,Uninsured % (PLACES ACCESS2 measure),CDC PLACES 2025,2021-2022 BRFSS
+smoking_pct,Current smoking prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+asthma_pct,Current asthma prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+hypertension_pct,High blood pressure prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+depression_pct,Depression prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+copd_pct,COPD prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+obesity_pct,Adult obesity prevalence (%),CDC PLACES 2025,2021-2022 BRFSS
+svi_overall,"SVI overall percentile (0-1, higher = more vulnerable)",CDC/ATSDR SVI 2022,2022
+svi_socioeco,SVI Theme 1: socioeconomic status percentile,CDC/ATSDR SVI 2022,2022
+svi_hh_char,SVI Theme 2: household characteristics percentile,CDC/ATSDR SVI 2022,2022
+svi_minority,SVI Theme 3: racial/ethnic minority and language percentile,CDC/ATSDR SVI 2022,2022
+svi_housing,SVI Theme 4: housing type and transportation percentile,CDC/ATSDR SVI 2022,2022
+pct_poverty,% persons below 150% of the poverty line (SVI component),CDC/ATSDR SVI 2022,2022
+pct_unemp_svi,% civilian unemployed (SVI component),CDC/ATSDR SVI 2022,2022
+pct_uninsured_svi,% uninsured (SVI component),CDC/ATSDR SVI 2022,2022
+eji_overall,"EJI overall percentile, county mean of tracts",CDC/ATSDR EJI 2024,2024
+eji_env_burden,"EJI Environmental Burden percentile, county mean",CDC/ATSDR EJI 2024,2024
+eji_social_vuln,"EJI Social Vulnerability percentile, county mean",CDC/ATSDR EJI 2024,2024
+eji_health_vuln,"EJI Health Vulnerability percentile, county mean",CDC/ATSDR EJI 2024,2024
+n_tracts,Number of census tracts averaged for the EJI county value,CDC/ATSDR EJI 2024,2024
+hpsa_prim_care,"Primary care shortage designation (0=none, 1=partial, 2=whole)",HRSA AHRF 2024-2025,2025
+hpsa_dental,"Dental shortage designation (0=none, 1=partial, 2=whole)",HRSA AHRF 2024-2025,2025
+hpsa_mental_health,"Mental health shortage designation (0=none, 1=partial, 2=whole)",HRSA AHRF 2024-2025,2025
+hpsa_any_shortage,"Any shortage designation (1=yes, 0=no)",HRSA AHRF 2024-2025,2025
+hpsa_prim_care_designated,"Primary care shortage, binary (1=yes, 0=no)",HRSA AHRF 2024-2025,2025
+pct_lila_tracts,% of county tracts that are low-income and low-access (LILA),USDA Food Access Atlas 2019,2019
+mean_dist_supermarket,"Mean tract share of population over half a mile from a supermarket (a percentage, not a distance)",USDA Food Access Atlas 2019,2019
+pct_no_vehicle_far,Mean tract % of housing units with no vehicle and far from a supermarket,USDA Food Access Atlas 2019,2019
+premature_death,"Premature death rate (YPLL per 100,000)",CHR&R 2025,2025
+poor_health_days,Average physically unhealthy days per month,CHR&R 2025,2025
+poor_mental_days,Average mentally unhealthy days per month,CHR&R 2025,2025
+social_associations,"Membership associations per 10,000 population",CHR&R 2025,2025
+voter_turnout,"Voter turnout % (CHR&R v177, presidential election)",CHR&R 2025,2025
+adult_smoking,Adult smoking prevalence (%),CHR&R 2025,2025
+adult_obesity,Adult obesity prevalence (%),CHR&R 2025,2025
+food_insecurity,Food insecurity (%),CHR&R 2025,2025
+n_districts,Number of school districts assigned to the county,NCES CCD 2024-2025,2024-2025
+frl_total,Students in the free/reduced lunch table (free + reduced + missing). NOT total enrollment.,NCES CCD 2024-2025,2024-2025
+pct_free_lunch,"% of free/reduced lunch eligible students who qualify for FREE lunch (denominator is frl_total, not enrollment)",NCES CCD 2024-2025,2024-2025
+pct_reduced_lunch,% of free/reduced lunch eligible students who qualify for REDUCED-price lunch (denominator is frl_total). Sums to 100 with pct_free_lunch by construction.,NCES CCD 2024-2025,2024-2025

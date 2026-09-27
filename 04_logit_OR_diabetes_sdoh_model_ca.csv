@@ -1,0 +1,6 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high
+(Intercept),0.0869,4.0994,-0.5961,0.5511,0,199.5373
+unemployment_rate,1.2801,0.2399,1.0294,0.3033,0.818,2.1343
+pct_bachelor_plus,0.8845,0.0593,-2.0695,0.0385,0.7747,0.9794
+uninsured_rate,1.7953,0.2986,1.9595,0.0501,1.0511,3.4301
+pct_no_vehicle_far,1.3238,0.4285,0.6547,0.5127,0.5587,2.9546

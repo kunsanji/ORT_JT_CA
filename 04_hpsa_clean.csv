@@ -1,0 +1,59 @@
+fips,county_name,hpsa_prim_care,hpsa_dental,hpsa_mental_health,hpsa_any_shortage,hpsa_prim_care_designated
+06001,Alameda,2,2,2,1,1
+06003,Alpine,2,0,0,1,1
+06005,Amador,2,2,1,1,1
+06007,Butte,2,2,1,1,1
+06009,Calaveras,2,2,1,1,1
+06011,Colusa,1,2,1,1,1
+06013,Contra Costa,2,2,2,1,1
+06015,Del Norte,1,2,1,1,1
+06017,El Dorado,2,2,1,1,1
+06019,Fresno,2,2,2,1,1
+06021,Glenn,2,2,1,1,1
+06023,Humboldt,2,2,2,1,1
+06025,Imperial,2,2,1,1,1
+06027,Inyo,2,2,2,1,1
+06029,Kern,2,2,2,1,1
+06031,Kings,2,2,1,1,1
+06033,Lake,2,2,2,1,1
+06035,Lassen,2,2,1,1,1
+06037,Los Angeles,2,2,2,1,1
+06039,Madera,2,2,1,1,1
+06041,Marin,2,2,2,1,1
+06043,Mariposa,2,2,1,1,1
+06045,Mendocino,2,2,2,1,1
+06047,Merced,2,2,1,1,1
+06049,Modoc,1,2,1,1,1
+06051,Mono,2,2,1,1,1
+06053,Monterey,2,2,2,1,1
+06055,Napa,2,2,2,1,1
+06057,Nevada,2,2,1,1,1
+06059,Orange,2,2,2,1,1
+06061,Placer,2,2,2,1,1
+06063,Plumas,2,2,1,1,1
+06065,Riverside,2,2,2,1,1
+06067,Sacramento,2,2,2,1,1
+06069,San Benito,2,2,2,1,1
+06071,San Bernardino,2,2,2,1,1
+06073,San Diego,2,2,2,1,1
+06075,San Francisco,2,2,2,1,1
+06077,San Joaquin,2,2,2,1,1
+06079,San Luis Obispo,2,2,2,1,1
+06081,San Mateo,2,2,2,1,1
+06083,Santa Barbara,2,2,2,1,1
+06085,Santa Clara,2,2,2,1,1
+06087,Santa Cruz,2,2,2,1,1
+06089,Shasta,2,2,1,1,1
+06091,Sierra,1,0,1,1,1
+06093,Siskiyou,2,2,1,1,1
+06095,Solano,2,2,2,1,1
+06097,Sonoma,2,2,2,1,1
+06099,Stanislaus,2,2,2,1,1
+06101,Sutter,2,2,1,1,1
+06103,Tehama,2,2,1,1,1
+06105,Trinity,2,2,1,1,1
+06107,Tulare,2,2,1,1,1
+06109,Tuolumne,2,2,1,1,1
+06111,Ventura,2,2,2,1,1
+06113,Yolo,2,2,2,1,1
+06115,Yuba,2,2,1,1,1

@@ -1,0 +1,175 @@
+fips,county_name,shortage_type,designation_code
+06001,"Alameda County, California",Primary Care,2
+06001,"Alameda County, California",Dental,2
+06001,"Alameda County, California",Mental Health,2
+06003,"Alpine County, California",Primary Care,2
+06003,"Alpine County, California",Dental,0
+06003,"Alpine County, California",Mental Health,0
+06005,"Amador County, California",Primary Care,2
+06005,"Amador County, California",Dental,2
+06005,"Amador County, California",Mental Health,1
+06007,"Butte County, California",Primary Care,2
+06007,"Butte County, California",Dental,2
+06007,"Butte County, California",Mental Health,1
+06009,"Calaveras County, California",Primary Care,2
+06009,"Calaveras County, California",Dental,2
+06009,"Calaveras County, California",Mental Health,1
+06011,"Colusa County, California",Primary Care,1
+06011,"Colusa County, California",Dental,2
+06011,"Colusa County, California",Mental Health,1
+06013,"Contra Costa County, California",Primary Care,2
+06013,"Contra Costa County, California",Dental,2
+06013,"Contra Costa County, California",Mental Health,2
+06015,"Del Norte County, California",Primary Care,1
+06015,"Del Norte County, California",Dental,2
+06015,"Del Norte County, California",Mental Health,1
+06017,"El Dorado County, California",Primary Care,2
+06017,"El Dorado County, California",Dental,2
+06017,"El Dorado County, California",Mental Health,1
+06019,"Fresno County, California",Primary Care,2
+06019,"Fresno County, California",Dental,2
+06019,"Fresno County, California",Mental Health,2
+06021,"Glenn County, California",Primary Care,2
+06021,"Glenn County, California",Dental,2
+06021,"Glenn County, California",Mental Health,1
+06023,"Humboldt County, California",Primary Care,2
+06023,"Humboldt County, California",Dental,2
+06023,"Humboldt County, California",Mental Health,2
+06025,"Imperial County, California",Primary Care,2
+06025,"Imperial County, California",Dental,2
+06025,"Imperial County, California",Mental Health,1
+06027,"Inyo County, California",Primary Care,2
+06027,"Inyo County, California",Dental,2
+06027,"Inyo County, California",Mental Health,2
+06029,"Kern County, California",Primary Care,2
+06029,"Kern County, California",Dental,2
+06029,"Kern County, California",Mental Health,2
+06031,"Kings County, California",Primary Care,2
+06031,"Kings County, California",Dental,2
+06031,"Kings County, California",Mental Health,1
+06033,"Lake County, California",Primary Care,2
+06033,"Lake County, California",Dental,2
+06033,"Lake County, California",Mental Health,2
+06035,"Lassen County, California",Primary Care,2
+06035,"Lassen County, California",Dental,2
+06035,"Lassen County, California",Mental Health,1
+06037,"Los Angeles County, California",Primary Care,2
+06037,"Los Angeles County, California",Dental,2
+06037,"Los Angeles County, California",Mental Health,2
+06039,"Madera County, California",Primary Care,2
+06039,"Madera County, California",Dental,2
+06039,"Madera County, California",Mental Health,1
+06041,"Marin County, California",Primary Care,2
+06041,"Marin County, California",Dental,2
+06041,"Marin County, California",Mental Health,2
+06043,"Mariposa County, California",Primary Care,2
+06043,"Mariposa County, California",Dental,2
+06043,"Mariposa County, California",Mental Health,1
+06045,"Mendocino County, California",Primary Care,2
+06045,"Mendocino County, California",Dental,2
+06045,"Mendocino County, California",Mental Health,2
+06047,"Merced County, California",Primary Care,2
+06047,"Merced County, California",Dental,2
+06047,"Merced County, California",Mental Health,1
+06049,"Modoc County, California",Primary Care,1
+06049,"Modoc County, California",Dental,2
+06049,"Modoc County, California",Mental Health,1
+06051,"Mono County, California",Primary Care,2
+06051,"Mono County, California",Dental,2
+06051,"Mono County, California",Mental Health,1
+06053,"Monterey County, California",Primary Care,2
+06053,"Monterey County, California",Dental,2
+06053,"Monterey County, California",Mental Health,2
+06055,"Napa County, California",Primary Care,2
+06055,"Napa County, California",Dental,2
+06055,"Napa County, California",Mental Health,2
+06057,"Nevada County, California",Primary Care,2
+06057,"Nevada County, California",Dental,2
+06057,"Nevada County, California",Mental Health,1
+06059,"Orange County, California",Primary Care,2
+06059,"Orange County, California",Dental,2
+06059,"Orange County, California",Mental Health,2
+06061,"Placer County, California",Primary Care,2
+06061,"Placer County, California",Dental,2
+06061,"Placer County, California",Mental Health,2
+06063,"Plumas County, California",Primary Care,2
+06063,"Plumas County, California",Dental,2
+06063,"Plumas County, California",Mental Health,1
+06065,"Riverside County, California",Primary Care,2
+06065,"Riverside County, California",Dental,2
+06065,"Riverside County, California",Mental Health,2
+06067,"Sacramento County, California",Primary Care,2
+06067,"Sacramento County, California",Dental,2
+06067,"Sacramento County, California",Mental Health,2
+06069,"San Benito County, California",Primary Care,2
+06069,"San Benito County, California",Dental,2
+06069,"San Benito County, California",Mental Health,2
+06071,"San Bernardino County, California",Primary Care,2
+06071,"San Bernardino County, California",Dental,2
+06071,"San Bernardino County, California",Mental Health,2
+06073,"San Diego County, California",Primary Care,2
+06073,"San Diego County, California",Dental,2
+06073,"San Diego County, California",Mental Health,2
+06075,"San Francisco County, California",Primary Care,2
+06075,"San Francisco County, California",Dental,2
+06075,"San Francisco County, California",Mental Health,2
+06077,"San Joaquin County, California",Primary Care,2
+06077,"San Joaquin County, California",Dental,2
+06077,"San Joaquin County, California",Mental Health,2
+06079,"San Luis Obispo County, California",Primary Care,2
+06079,"San Luis Obispo County, California",Dental,2
+06079,"San Luis Obispo County, California",Mental Health,2
+06081,"San Mateo County, California",Primary Care,2
+06081,"San Mateo County, California",Dental,2
+06081,"San Mateo County, California",Mental Health,2
+06083,"Santa Barbara County, California",Primary Care,2
+06083,"Santa Barbara County, California",Dental,2
+06083,"Santa Barbara County, California",Mental Health,2
+06085,"Santa Clara County, California",Primary Care,2
+06085,"Santa Clara County, California",Dental,2
+06085,"Santa Clara County, California",Mental Health,2
+06087,"Santa Cruz County, California",Primary Care,2
+06087,"Santa Cruz County, California",Dental,2
+06087,"Santa Cruz County, California",Mental Health,2
+06089,"Shasta County, California",Primary Care,2
+06089,"Shasta County, California",Dental,2
+06089,"Shasta County, California",Mental Health,1
+06091,"Sierra County, California",Primary Care,1
+06091,"Sierra County, California",Dental,0
+06091,"Sierra County, California",Mental Health,1
+06093,"Siskiyou County, California",Primary Care,2
+06093,"Siskiyou County, California",Dental,2
+06093,"Siskiyou County, California",Mental Health,1
+06095,"Solano County, California",Primary Care,2
+06095,"Solano County, California",Dental,2
+06095,"Solano County, California",Mental Health,2
+06097,"Sonoma County, California",Primary Care,2
+06097,"Sonoma County, California",Dental,2
+06097,"Sonoma County, California",Mental Health,2
+06099,"Stanislaus County, California",Primary Care,2
+06099,"Stanislaus County, California",Dental,2
+06099,"Stanislaus County, California",Mental Health,2
+06101,"Sutter County, California",Primary Care,2
+06101,"Sutter County, California",Dental,2
+06101,"Sutter County, California",Mental Health,1
+06103,"Tehama County, California",Primary Care,2
+06103,"Tehama County, California",Dental,2
+06103,"Tehama County, California",Mental Health,1
+06105,"Trinity County, California",Primary Care,2
+06105,"Trinity County, California",Dental,2
+06105,"Trinity County, California",Mental Health,1
+06107,"Tulare County, California",Primary Care,2
+06107,"Tulare County, California",Dental,2
+06107,"Tulare County, California",Mental Health,1
+06109,"Tuolumne County, California",Primary Care,2
+06109,"Tuolumne County, California",Dental,2
+06109,"Tuolumne County, California",Mental Health,1
+06111,"Ventura County, California",Primary Care,2
+06111,"Ventura County, California",Dental,2
+06111,"Ventura County, California",Mental Health,2
+06113,"Yolo County, California",Primary Care,2
+06113,"Yolo County, California",Dental,2
+06113,"Yolo County, California",Mental Health,2
+06115,"Yuba County, California",Primary Care,2
+06115,"Yuba County, California",Dental,2
+06115,"Yuba County, California",Mental Health,1
